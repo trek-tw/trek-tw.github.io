@@ -341,7 +341,7 @@ Buttons
 .read-btn, .download-btn {
     display: inline-block;
     padding: 14px 40px;
-    border: 2px solid #fff;
+    border: 2px solid #000000;
     border-radius: 3px;
     color: #fff;
     font-size: 16px;
@@ -777,7 +777,7 @@ ourWorks
 .ourWorks ul li {
     float: left;
     min-height: 100%;
-    width: 25%;
+    width: 33%;
     background-color: #000;
     list-style: none;
 }
