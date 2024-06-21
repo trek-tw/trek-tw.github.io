@@ -968,7 +968,7 @@ Nav Overlay
     opacity: 1;
     -webkit-transition: opacity 0.5s;
     transition: opacity 0.5s;
-    background: rgba(1, 27, 76, 0.95);
+    background: rgba(13, 76, 1, 0.95);
 }
 .overlay-midway nav ul li {
     opacity: 0;
