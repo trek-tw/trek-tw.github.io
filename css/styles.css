@@ -714,11 +714,6 @@ blockquote .logo-quote {
     text-transform: uppercase;
 }
 
-.price-table.featured ul li:last-child,
-.price-table ul li:last-child:hover {
-    background-color: #6BE86B;
-}
-
 .price-table.featured ul li:last-child a,
 .price-table ul li:last-child:hover a {
     color: #fff;
