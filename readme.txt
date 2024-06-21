@@ -1,6 +1,21 @@
-Bootstrap/HTML5 Responsive Template 
+Note
+====
 
-Add Life Health Fitness Free Bootstrap HTML5 Template is a simple elegant designed HTML5 Bootstrap template suits for Health and fitness industry. This can be also fits to  other types of health care business, Gym studio, Arerobics, sports, consultancy, portfolio and many more. This template is built using latest Bootstrap framework with html5 and css3 which is very easy to customise the theme as per your requirements. This template designed with height quality standards. This a responsive template fits in all devices with multi browser support. Download for free.  
+Midway free HTML5 website template for multi-purpose needs. This is a clean modern HTML5 based template for all kinds of corporate business, consultancy, portfolio, agency, real estate, interior designer and many more. This template is built using latest Bootstrap 3.3.1 with html5 and css3 which easy to customeise the theme as per the requirements. This template designed with height quality standards to meet the latest requirment and it is a responsive template fits in all devices with multi browser support. 
+
+Features :
+--------
+=> Bootstrap 3.3.1
+=> Clean & Developer-friendly HTML5 and CSS3 code
+=> 100% Responsive Layout Design
+=> Multipurpose theme
+=> Google Fonts Support
+=> Font Awesome
+=> Gallery Section Lightbox
+=> Smooth Scrolling
+=> Fully Customizable
+=> Camera Carousal
+
 
 Credits :
 -------
